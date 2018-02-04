@@ -1,6 +1,6 @@
 # What Does this Program Do?
 
-This program has been desing for the lighting-fast computation of an exponent and modularity. This is perfect for working with big numbers and cryptography. 
+This program has been desing for the lighting-fast computation of an exponent and modularity. This is perfect for working with big numbers  
 
 ## How to Run it?
 
