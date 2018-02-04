@@ -2,8 +2,6 @@
 
 This program has been desing for the lighting-fast computation of an exponent and modularity. This is perfect for working with big numbers and cryptography. 
 
-"                "
-
 ## How to Run it?
 
 1. Just run it [here](https://repl.it/@Speedmirage/Fast-Exponentiation) and follow the in-program promts
@@ -18,7 +16,3 @@ This program has been desing for the lighting-fast computation of an exponent an
 # [Return Home](https://speedmirage.github.io)
 
 
-<!DOCTYPE html>
-<html>
-<body style="background-color:black;">
-</html>
