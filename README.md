@@ -19,21 +19,7 @@ This program has been desing for the lighting-fast computation of an exponent an
 
 
 <!DOCTYPE html>
-<html>
-<head>
-<style>
 
-h1 {
-    background-color: black;
-}
-
-div {
-    background-color: black;
-}
-
-p {
-    background-color: black;
-}
 <html>
 <body style="background-color:black;">
 </html>
