@@ -23,7 +23,7 @@ This program has been desing for the lighting-fast computation of an exponent an
 <head>
 <style>
 h1 {
-    background-color: green;
+    background-color: black;
 }
 
 div {
