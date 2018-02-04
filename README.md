@@ -20,5 +20,5 @@ This program has been desing for the lighting-fast computation of an exponent an
 
 <html>
 <body style="background-color:black;">
-</body>
+
 </html>
