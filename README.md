@@ -27,11 +27,11 @@ h1 {
 }
 
 div {
-    background-color: lightblue;
+    background-color: black;
 }
 
 p {
-    background-color: yellow;
+    background-color: black;
 }
 
 </html>
