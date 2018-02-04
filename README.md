@@ -6,7 +6,6 @@ This program has been desing for the lighting-fast computation of an exponent an
 
 1. Just run it [here](https://repl.it/@Speedmirage/Fast-Exponentiation) and follow the in-program promts
 2. Enjoy! :)
-
 **_________________________________________________**
 
 
