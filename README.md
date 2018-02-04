@@ -1,6 +1,6 @@
 # What Does this Program Do?
 
-This program has been desing for the lighting-fast computation of an exponent and modularity. This is perfect for working with big numbers  
+This program has been desing for the lighting-fast computation of an exponent and modularity. This is perfect for working with big numbers and cryptography.
 
 ## How to Run it?
 
@@ -14,5 +14,3 @@ This program has been desing for the lighting-fast computation of an exponent an
 
 # [Return Home](https://speedmirage.github.io)
 
-<body style="background-color:rgb(0,0,0);">
-</body>
